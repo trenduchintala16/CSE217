@@ -1,0 +1,90 @@
+﻿Midterm Score,"How much did you rely on the following studying methods to prepare for this exam? 1 indicates ""Not at all"" and 5 indicates ""Very heavily."" [Reviewing slides]","How much did you rely on the following studying methods to prepare for this exam? 1 indicates ""Not at all"" and 5 indicates ""Very heavily."" [Attending lecture]","How much did you rely on the following studying methods to prepare for this exam? 1 indicates ""Not at all"" and 5 indicates ""Very heavily."" [Taking lecture notes]","How much did you rely on the following studying methods to prepare for this exam? 1 indicates ""Not at all"" and 5 indicates ""Very heavily."" [Reviewing lecture notes]","How much did you rely on the following studying methods to prepare for this exam? 1 indicates ""Not at all"" and 5 indicates ""Very heavily."" [Completing assigned readings]","How much did you rely on the following studying methods to prepare for this exam? 1 indicates ""Not at all"" and 5 indicates ""Very heavily."" [Attending a study group]","How much did you rely on the following studying methods to prepare for this exam? 1 indicates ""Not at all"" and 5 indicates ""Very heavily."" [Talking with a professor / TA]","How much did you rely on the following studying methods to prepare for this exam? 1 indicates ""Not at all"" and 5 indicates ""Very heavily."" [Reviewing homeworks]","How much did you rely on the following studying methods to prepare for this exam? 1 indicates ""Not at all"" and 5 indicates ""Very heavily."" [Reviewing labs]","Who did you study with? (1 indicates ""Not at all"" and 5 indicates ""Very heavily."") [One other student from class]","How much did you rely on the following studying methods to prepare for this exam? 1 indicates ""Not at all"" and 5 indicates ""Very heavily."" [Reviewing past quizzes]","How much did you rely on the following studying methods to prepare for this exam? 1 indicates ""Not at all"" and 5 indicates ""Very heavily."" [Completing worksheet problems]","Who did you study with? (1 indicates ""Not at all"" and 5 indicates ""Very heavily."") [Study group with other students/friends]","Who did you study with? (1 indicates ""Not at all"" and 5 indicates ""Very heavily."") [Alone]","How many hours in total did you study for this exam? (Answer using numerals, e.g. ""5"" and not ""five"")","Who did you study with? (1 indicates ""Not at all"" and 5 indicates ""Very heavily."") [Tutor / friend not in this class]",What was the hardest concept to grasp?,"How many days before the exam did you start studying? (Answer using numerals, e.g. ""5"" and not ""five"")",Why was it hard? (Please note this question is optional)
+59.5,2,5,3,2,1,1,1,2,4,3,1,5,1,5,2,1,Logistic Regression,5,simply don't remember
+81,1,1,1,1,1,1,1,1,1,1,1,1,1,5,0,1,Logistic Regression,0,
+72.5,5,2,1,2,1,3,2,3,4,2,4,1,3,4,6,1,Logistic Regression,1,Wasn't explained clearly
+74.5,4,4,4,4,1,1,1,3,3,4,1,3,1,4,5,1,Logistic Regression,1,Wasn't explained clearly
+67.5,3,5,1,1,1,1,3,4,3,1,2,4,1,5,5,1,Logistic Regression,4,"Math was hard, don't have much math background"
+76.5,5,2,2,1,1,1,3,5,5,1,1,5,1,5,5,1,Logistic Regression,1,Have unanswered questions still lingering
+78.5,4,5,1,1,1,1,5,5,5,1,1,5,2,4,5,1,Logistic Regression,1,Wasn't explained clearly
+85,5,2,2,3,1,1,3,2,2,2,4,5,2,5,3,2,Exploratory Data Analysis,2,Subjective
+92,5,5,2,2,1,1,1,5,4,1,1,4,1,5,4,1,Exploratory Data Analysis,3,
+90,3,3,4,5,2,1,1,4,4,3,1,5,3,5,8,1,Learning Principles,5,
+86,5,5,5,5,3,1,1,2,2,2,1,3,1,5,6,1,Logistic Regression,2,Wasn't explained clearly
+78,5,3,1,1,1,2,1,1,1,2,1,5,1,4,3,1,Logistic Regression,1,"I didn't find it difficult, but I'd say it was the least easy concept to grasp"
+75,4,4,3,4,1,1,1,4,4,1,1,3,1,5,7,1,Logistic Regression,1,Wasn't explained clearly
+83.5,3,2,1,1,1,1,2,1,1,2,1,2,1,3,1,1,Logistic Regression,3,
+80.5,5,3,3,3,1,1,1,4,2,2,1,3,1,5,7,1,Logistic Regression,2,Have unanswered questions still lingering
+87.5,4,3,2,4,1,1,4,5,4,1,1,3,1,5,4,1,Logistic Regression,2,Wasn't explained clearly
+91,3,5,2,1,1,1,1,1,1,1,1,3,1,5,1,1,Data Science Workflow,0,Wasn't explained clearly
+59.5,4,2,1,1,1,3,1,2,1,5,2,1,4,2,2,1,Logistic Regression,1,Have unanswered questions still lingering
+71.5,5,5,4,4,1,1,3,4,4,3,1,4,1,4,6,3,Logistic Regression,2,Wasn't explained clearly
+79,4,2,1,4,5,1,1,1,1,4,1,5,1,5,12,1,Logistic Regression,3,"Math was hard, don't have much math background"
+84,5,4,1,4,1,4,1,1,1,4,1,3,1,2,3,1,Learning Principles,1,Didn't have enough time to understand
+75.5,5,4,4,5,2,2,3,4,4,2,4,5,1,5,4,2,Logistic Regression,2,I feel like I didn't put as much time/effort into grasping it because it was taught during a period of time where I was very busy. Honestly my fault for the most part. 
+74,5,3,3,3,2,3,2,4,5,4,2,3,1,5,5,1,Logistic Regression,1,Didn't have enough time to understand
+81.5,5,3,1,1,4,3,2,2,2,4,2,2,3,3,6,1,Logistic Regression,2,
+80,5,5,3,4,1,1,2,5,5,2,1,4,1,5,6,1,Logistic Regression,1,Wasn't explained clearly
+83.5,5,4,1,1,1,1,4,5,5,2,1,5,1,5,7,1,Logistic Regression,1,Didn't have enough time to understand
+69,5,4,2,1,1,2,2,2,4,3,1,1,2,4,6,2,Exploratory Data Analysis,2,Have unanswered questions still lingering
+83,5,4,2,2,1,1,1,4,5,2,4,5,1,5,6,1,Data Science Workflow,1,Didn't have enough time to understand
+95.5,4,4,2,2,1,1,1,3,3,2,1,4,1,3,4,1,Logistic Regression,2,Didn't have enough time to understand
+71,5,4,3,2,1,1,3,3,4,3,1,4,2,5,10,1,Logistic Regression,4,Have unanswered questions still lingering
+78,5,4,3,4,1,2,3,4,5,5,5,5,3,4,8,1,Logistic Regression,2,Didn't have enough time to understand
+90,1,4,4,3,1,1,2,3,4,4,1,5,1,4,4,1,Logistic Regression,3,Wasn't explained clearly
+87,2,4,3,3,3,1,1,4,3,3,1,4,3,5,3,1,Logistic Regression,1,Didn't have enough time to understand
+66.5,4,3,2,2,4,4,2,5,5,5,3,5,5,5,7,1,Logistic Regression,5,Wasn't explained clearly
+85,5,3,1,2,1,2,1,4,4,3,1,4,2,5,4,1,Exploratory Data Analysis,2,Wasn't explained clearly
+81.5,5,5,3,1,1,1,2,2,1,2,1,3,2,5,3,1,Logistic Regression,1,Have unanswered questions still lingering
+87,3,4,3,2,2,3,4,4,4,2,4,4,3,4,6,1,Logistic Regression,1,Have unanswered questions still lingering
+89.5,4,4,3,2,1,1,2,3,3,3,1,5,1,4,4,1,Logistic Regression,3,Have unanswered questions still lingering
+68.5,4,3,2,2,1,1,2,3,3,4,3,4,4,3,5,1,Logistic Regression,2,Have unanswered questions still lingering
+69.5,5,3,1,1,4,2,2,5,5,2,1,2,2,4,2.5,1,Logistic Regression,4,Have unanswered questions still lingering
+69.5,5,1,1,4,1,5,2,5,5,3,2,5,5,2,5,1,Logistic Regression,3,Wasn't explained clearly
+77.5,5,5,5,5,1,4,3,5,5,5,4,4,1,4,10,1,Logistic Regression,2,Have unanswered questions still lingering
+57,5,1,1,1,1,2,2,4,1,1,1,1,1,5,2,1,Logistic Regression,1,Didn't have enough time to understand
+74.5,5,5,5,4,3,5,5,4,5,4,4,5,4,5,4,1,Logistic Regression,4,Wasn't explained clearly
+96.5,5,5,5,5,1,4,2,2,2,1,2,5,3,4,7,1,Logistic Regression,2,Wasn't explained clearly
+82.5,4,4,5,5,2,2,4,4,4,3,1,3,3,4,5,2,Logistic Regression,2,Wasn't explained clearly
+90,4,3,2,3,2,1,1,2,2,2,1,4,1,4,6,1,Regression,3,Wasn't explained clearly
+69.5,5,1,1,1,1,1,3,2,2,3,1,5,1,4,5,1,Exploratory Data Analysis,3,Wasn't explained clearly
+85,5,5,2,1,1,2,2,4,4,4,1,5,4,3,5,1,Logistic Regression,1,Have unanswered questions still lingering
+74.5,5,4,2,2,1,1,1,5,5,3,1,5,1,4,10,1,Logistic Regression,2,Have unanswered questions still lingering
+87,2,3,1,1,4,1,1,4,4,4,1,3,3,1,10,1,Logistic Regression,2,Have unanswered questions still lingering
+85.5,5,4,2,1,1,1,4,3,1,2,1,2,1,5,6,1,Sentiment Analysis,1,Have unanswered questions still lingering
+78.5,5,5,5,5,1,3,4,3,3,4,2,3,2,5,10,1,Logistic Regression,2,
+-1,5,5,2,2,1,1,3,5,4,1,1,5,1,5,5,1,Learning Principles,2,Didn't have enough time to understand
+91,5,5,5,4,3,4,3,5,4,2,2,5,5,3,6,1,Regression,3,Have unanswered questions still lingering
+79,5,5,5,3,2,2,5,5,5,1,5,5,1,5,9,1,Logistic Regression,2,I found it hard to find what was the same/different to linear regression.
+93.5,4,5,3,5,1,5,4,1,1,1,1,5,5,2,4,1,Learning Principles,1,Have unanswered questions still lingering
+78.5,4,5,3,3,2,2,3,5,5,5,1,5,4,3,8,1,Logistic Regression,4,Have unanswered questions still lingering
+76.5,5,5,5,3,4,4,3,5,3,2,5,5,2,5,9,1,Logistic Regression,5,Wasn't explained clearly
+70,5,5,2,3,1,5,1,5,5,4,1,5,5,1,6,1,Exploratory Data Analysis,2,Wasn't explained clearly
+75,5,3,2,1,1,2,1,1,1,3,1,1,1,5,6,1,Logistic Regression,1,Didn't have enough time to understand
+76,4,4,4,4,3,1,3,5,3,2,3,5,3,5,3,1,Logistic Regression,7,Have unanswered questions still lingering
+70,5,5,2,2,1,4,5,5,5,5,1,5,1,5,10,1,Regression,6,Wasn't explained clearly
+60,4,4,3,4,1,3,4,4,4,4,1,3,2,4,7,1,Data Science Workflow,3,Didn't have enough time to understand
+94,5,2,1,1,1,3,4,5,5,5,3,5,3,1,10,1,Logistic Regression,4,
+88.5,5,4,2,5,4,2,5,4,3,4,3,5,4,4,6,1,Logistic Regression,6,not hard
+79.5,2,3,3,3,1,2,3,4,4,3,2,5,1,4,10,1,Learning Principles,5,Wasn't explained clearly
+78.5,5,4,4,5,4,3,5,4,5,2,1,4,2,3,6,4,Logistic Regression,3,Wasn't explained clearly
+76,4,5,5,4,3,3,4,5,5,4,4,5,4,4,6,2,Sentiment Analysis,3,Have unanswered questions still lingering
+79.5,4,2,2,2,2,2,4,2,4,1,1,4,1,4,6,1,Logistic Regression,3,Wasn't explained clearly
+84,4,4,3,3,1,2,2,1,1,3,1,2,2,3,4,3,Logistic Regression,1,Have unanswered questions still lingering
+94.5,5,5,3,4,2,5,3,5,5,2,4,5,5,5,6,1,Logistic Regression,5,Have unanswered questions still lingering
+67.5,5,3,1,1,1,2,3,2,3,1,1,1,1,5,4,1,Logistic Regression,0,Wasn't explained clearly
+90.5,5,4,3,2,3,4,3,2,2,3,2,5,4,3,4,1,Logistic Regression,1,Wasn't explained clearly
+-1,4,1,1,1,4,1,1,5,5,5,1,1,1,5,10,1,Regression,3,Wasn't explained clearly
+81.5,3,5,3,3,1,1,1,1,3,1,1,3,1,5,6,1,Logistic Regression,1,"Math was hard, don't have much math background"
+83,5,4,5,5,4,2,2,5,5,2,3,5,1,5,15,1,Exploratory Data Analysis,5,Too conceptual to have a certain answer
+89.5,3,3,2,2,4,3,1,4,4,3,4,3,3,5,4,1,Logistic Regression,2,Have unanswered questions still lingering
+89.5,5,4,2,3,2,1,2,5,5,1,1,5,1,5,10,1,Data Science Workflow,3,Some of the questions were confusing (didn't know exactly what it was asking)
+91,4,5,5,5,2,2,5,5,5,2,2,5,4,5,5,1,Logistic Regression,2,
+81.5,4,4,4,4,4,4,4,4,4,4,4,4,3,4,7,1,Logistic Regression,3,Wasn't explained clearly
+75,5,5,4,4,2,2,4,4,4,2,4,5,1,5,18,1,Logistic Regression,3,It was just conceptually more difficult to grasp than the other material
+85,4,4,3,1,1,2,4,5,3,4,1,4,1,4,5,1,Logistic Regression,0,Accidentally clicked an option. It wasn’t that hard
+81.5,5,5,5,5,5,2,2,5,5,1,3,5,1,5,4,1,Exploratory Data Analysis,2,Have unanswered questions still lingering
+70.5,4,3,1,2,1,3,3,3,2,1,2,4,4,2,5,1,Logistic Regression,1,Wasn't explained clearly
+83.5,5,2,2,3,1,3,1,5,5,1,1,5,5,1,10,1,Logistic Regression,3,Have unanswered questions still lingering
+81.5,5,4,3,4,1,5,1,1,1,4,1,5,4,4,4,1,Learning Principles,1,Have unanswered questions still lingering
+80.5,5,4,4,5,3,2,3,4,3,2,2,5,2,5,10,1,Logistic Regression,2,Didn't have enough time to understand
+65.5,5,4,4,4,3,2,2,5,5,1,4,4,1,5,7,1,Learning Principles,2,Didn't have enough time to understand
