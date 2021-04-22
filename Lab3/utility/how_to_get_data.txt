@@ -1,0 +1,10 @@
+Find the data HERE:
+
+movie reviews:
+https://wustl.box.com/s/u5thu275xm4dxe3tevnlttl5d8he901u
+
+backup twitter data (only if API fails):
+https://wustl.box.com/s/zbxh8acrree21gg6qaabpo9zo7nnw1fd
+
+
+Do not add this data to the repository!
